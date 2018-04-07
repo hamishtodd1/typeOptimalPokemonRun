@@ -1,0 +1,323 @@
+- A -
+
+Absorb: Grass - 20 - Absorb HP from the opponent equal to 1/2 of the damage 
+dealt.
+Acid: Poison - 30 - Damages opponent and sometimes decreases its Defense Power.
+Acid Armor: Poison - 40 - Increases Defense Power temporarily.
+Agility: Psychic - 30 - Increases Speed temporarily.
+Amnesia: Psychic - 20 - Increases Special Attack temporarily.
+Aurora Beam: Ice - 20 - Damages opponent for medium Ice-typed damage, and 
+sometimes Freezes it and/or decreases its Attack Power.
+
+- B -
+
+Barrage: Normal - 20 - Hits opponent 2 to 5 times in a row for light damage.
+Barrier: Psychic - 30 - Increases Defense Power temporarily.
+Bide: Normal - 10 - Charges for 2 to 3 turns, and then hits opponent for twice 
+the damage recieved.
+Bind: Normal - 20 - Hits opponent 2 to 5 times in a row for light damage.
+Bite: Normal - 25 - Damages opponent for medium Type-less damage and sometimes 
+scares it.
+Blizzard: Ice - 5 - Damages opponent for extreme Ice-typed damage and sometimes 
+Freezes it.
+Body Slam: Normal - 15 - Damages opponent for heavy Type-less damage and 
+sometimes Paralyzes it.
+Bone Club: Ground - 20 - Damages opponent for heavy Type-less damage and 
+sometimes scares it.
+Bonemerang: Ground - 10 - Hits opponent twice for medium damage.
+Bubble: Water - 30 - Hits opponent for light Water-typed damage and sometimes 
+decreases its Speed.
+BubbleBeam: Water - 20 - Hits opponent for heavy Water-typed damage and 
+sometimes decreases its Speed.
+
+- C -
+
+Clamp: Water - 10 - Hits opponent 2 to 5 times in a row for light Water-typed 
+damage each hit.
+Comet Punch: Normal - 15 - Hits opponent 2 to 5 times in a row for light Type-
+less damage each hit.
+Confuse Ray: Ghost - 10 - Confuses opponent.
+Confusion: Psychic - 25 - Damages opponent for medium Psychic-typed damage and 
+sometimes Confuses it.
+Constrict: Normal - 35 - Damages opponent for light Type-less damage and 
+sometimes decreases its Speed.
+Conversion: Normal - 30 - Switches your Pokemon's Type to match with its 
+opponent's Type.
+Counter: Fighting - 20 - Damages your opponent for twice the damage received.
+Crabhammer: Water - 10 - Has a good chance for a Water-typed critical hit.
+Cut: Normal - 30 - Damages opponent for medium Type-less damage.  Out of battle, 
+cuts away bushes that block your path.
+
+- D -
+
+Defense Curl: Normal - 40 - Increases Defense Power temporarily.
+Dig: Ground - 10 - A two turn attack that hits the opponent for heavy Ground-
+typed damage.  Outside of battle, returns you to the last Poke Center you 
+visited.
+Disable: Normal - 20 - Disables one of your opponent's abilities.
+Dizzy Punch: Normal - 10 - Damages opponent for heavy Type-less damage.
+Double Kick: Fighting - 30 - Hits opponent twice for medium Fighting-typed 
+damage.
+Double Team: Normal - 15 - Increases Evade Rate temporarily.
+Double-Edge: Normal - 15 - A powerful attack that hits your Pokemon (for 1/4 the 
+damage) as well as your opponent.
+DoubleSlap: Normal - 10 - Hits opponent 2 to 5 times in a row for light Type-
+less damage each hit.
+Dragon Rage: Dragon - 10 - Causes 40 HP of damage to your opponent all the time.
+Dream Eater: Psychic - 15 - Your Pokemon absorbs the HP of a Sleeping opponent.
+Drill Peck: Flying - 20 - Damages opponent for medium Flying-typed damage.
+
+- E -
+
+Earthquake: Ground - 10 - Damages opponent for heavy Ground-typed damage.  Not 
+effective on Flying-type Pokemon.
+Egg Bomb: Normal - 10 - Damages opponent for heavy Type-less damage.
+Ember: Fire - 25 - Damages opponent for medium Fire-typed damage and sometimes 
+Burns it.
+Explosion: Normal - 5 - Hits opponent for extreme Type-less damage, but also 
+damages your Pokemon.
+
+- F -
+
+Fire Blast: Fire - 5 - Damages opponent for extreme Fire-typed damage and 
+sometimes Burns it.
+Fire Punch: Fire - 15 - Damages opponent for heavy Fire-typed damage and 
+sometimes Burns it.
+Fire Spin: Fire - 15 - Hits opponent 2 to 5 times in a row for medium Fire-typed 
+damage each hit.
+Fissure: Ground - 5 - Sometimes kills opponent in one hit.
+Flamethrower: Fire - 15 - Damages opponent for heavy Fire-typed damage and 
+sometimes Burns it.
+Flash: Normal - 20 - Decreases opponent's Accuracy temporarily.  Out of battle, 
+lights up Rock Tunnel.
+Fly: Flying - 15 - A two-turn attack that hits the opponent for heavy Flying-
+typed damage.  Out of battle, teleports you to an already-visited town.
+Focus Energy: Normal - 30 - Increases chance for a critical hit temporarily.
+Fury Attack: Normal - 20 - Hits opponent 2 to 5 times in a row for light damage 
+each hit.
+Fury Swipes: Normal - 15 - Hits opponent 2 to 5 times in a row for medium damage 
+each hit.
+
+- G -
+
+Glare: Normal - 30 - Paralyzes opponent.
+Growl: Normal - 40 - Decreases opponent's Attack Power temporarily.
+Growth: Normal - 40 - Increases Attack Power temporarily.
+Guillotine: Normal - 5 - Sometimes kills opponent in one hit.
+Gust: Normal - 35 - Damages opponent for light Flying-typed damage.
+
+- H -
+
+Harden: Normal - 30 - Increases Defense Power temporarily.
+Haze: Ice - 30 - Removes all Status Effects on both Pokemon.
+Headbutt: Normal - 15 - Damages opponent for heavy Type-less damage and 
+sometimes scares it.
+Hi Jump Kick: Fighting - 20 - Damages opponent for medium Fighting-typed damage, 
+but if you miss, your Pokemon will receive 1 HP of damage.
+Horn Attack: Normal - 25 - Damages opponent for medium Type-less damage.
+Horn Drill: Normal - 5 - Sometimes kills opponent in one hit.
+Hydro Pump: Water - 5 - Damages opponent for extreme Water-typed damage.
+Hyper Beam: Normal - 5 - Damages opponent for extreme (and sometimes lethal) 
+Type-less damage, but it takes two turns to use (attacks on the first turn, 
+rests on the second turn).
+Hyper Fang: Normal - 15 - Damages opponent for medium Type-less damage and 
+sometimes scares it.
+Hypnosis: Psychic - 20 - Puts opponent to Sleep.
+
+- I -
+
+Ice Beam: Ice - 10 - Damages opponent for heavy Ice-typed damage and sometimes 
+Freezes it.
+Ice Punch: Ice - 15 - Damages opponent for heavy Ice-typed damages and sometimes 
+Freezes it.
+
+- J -
+
+Jump Kick: Fighting - 25 - Damages opponent for light Fighting-typed damage, but 
+if you miss, your Pokemon will receive 1 HP of damage.
+
+- K -
+
+Karate Chop: Normal - 25 - Has a good chance for a Type-less critical hit.
+Kinesis: Psychic - 15 - Decreases opponent's Accuracy temporarily.
+
+- L -
+
+Leech Life: Bug - 15 - Absorbs some HP from your opponent.
+Leech Seed: Grass - 10 - Absorbs some HP from your opponent every turn, but does 
+not work on Grass-typed Pokemon.
+Leer: Normal - 30 - Decreases opponent's Defense Power temporarily.
+Lick: Ghost - 30 - Damages opponent for light Ghost-typed damage and sometimes 
+Paralyzes it.
+Light Screen: Psychic - 30 - Decreases damage dealt by Special Attacks by 50%.
+Lovely Kiss: Normal - 10 - Puts opponent to Sleep.
+Low Kick: Fighting - 20 - Damages opponent for medium Fighting-typed damage and 
+sometimes scares it.
+
+- M - 
+
+Meditate: Psychic - 40 - Increases Attack Power temporarily.
+Mega Drain: Grass - 10 - Absorb HP from the opponent equal to 1/2 of the damage 
+dealt.
+Mega Kick: Normal - 5 - Damages opponent for extreme Type-less damage.
+Mega Punch: Normal - 20 - Damages opponent for heavy Type-less damage.
+Metronome: Normal - 10 - Mimics various Pokemon abilties at random.
+Mimic: Normal - 10 - Allows you to learn one of your opponent's moves for the 
+duration of the battle, or until that Pokemon is switched.  That move replaces 
+the "Mimic" slot.
+Minimize: Normal - 20 - Increases Evade Rate temporarily.
+Mirror Move: Flying - 20 - Mimics opponent's last attack.
+Mist: Ice - 30 - Allows your Pokemon to defend against attacks designed to 
+decrease its attributes.
+
+- N -
+
+Night Shade: Ghost - 15 - Deals Ghost-typed damage to opponent equal to your 
+Pokemon's Experience Level (Level).
+
+- O -
+
+(None)
+
+- P -
+
+Pay Day: Normal - 20 - Damages opponent for medium Type-less damage.  Coins 
+retrieved after battle are equal to 2 times your Pokemon's Level (per hit of Pay 
+Day).
+Peck: Flying - 35 - Damages opponent for light Flying-typed damage.
+Petal Dance: Grass - 20 - Hits opponent 2 to 3 times for medium Grass-typed 
+damage each time, but Confuses your Pokemon as well.
+Pin Missile: Bug - 20 - Hits opponent 2 to 5 times in a row for medium Bug-typed 
+damage each time.
+Poison Gas: Poison - 40 - Poisons opponent.
+Poison Sting: Poison - 35 - Damages opponent for light Poison-typed damage and 
+sometimes Poisons it.
+PoisonPowder: Poison - 35 - Poisons opponent.
+Pound: Normal - 35 - Damages opponent for medium Type-less damage.
+Psybeam: Psychic - 20 - Damages opponent for heavy Psychic-typed damage and 
+sometimes Confuses it.
+Psychic: Psychic - 10 - Damages opponent for extreme Psychic-typed damage and 
+sometimes decreases its Special Attack Power.
+Psywave: Psychic - 15 - Deals Psychic-typed damage to opponent equal to 1.5 
+times your Pokemon's Experience Level (Level).
+
+- Q - 
+
+Quick Attack: Normal - 30 - Your Pokemon always gets the first attack that 
+damages your opponent for light Type-less damage.
+
+- R -
+
+Rage: Normal - 20 - Your Pokemon's Attack Power increases as it takes damage 
+until the end of the battle, but the Pokemon is also uncontrollable (it just 
+keeps attacking).
+Razor Leaf: Grass - 25 - Has a good chance for a Grass-typed critical hit.
+Razor Wind: Normal - 10 - A two-turn attack that hits the opponent for heavy 
+Type-less damage.
+Recover: Normal - 20 - Recovers half of your Pokemon's Max HP.
+Reflect: Psychic - 20 - Decreases damage dealt by Physical Attacks by 50%.
+Rest: Psychic - 10 - Your Pokemon recovers all of its HP and loses all Status 
+Effects, but then it loses two turns.
+Roar: Normal - 20 - Scares the opponent away, ending the battle automatically.  
+Doesn't work against Trainers or Gym Leaders.
+Rock Slide: Rock - 10 - Damages opponent for heavy Rock-typed damage.
+Rock Throw: Rock - 15 - Damages opponent for medium Rock-typed damage.
+Rolling Kick: Fighting - 15 - Damages opponent for medium Fighting-typed damage 
+and sometimes scares it.
+
+- S -
+
+Sand-Attack: Normal - 15 - Decreases opponent's Accuracy temporarily.
+Scratch: Normal - 30 - Damages opponent for light Type-less damage.
+Screech: Normal - 40 - Decreases opponent's Defense Power temporarily.
+Seismic Toss: Fighting - 20 - Deals typeless damage to opponent equal to your 
+Pokemon's Experience Level (Level). Can hit ghosts
+Selfdestruct: Normal - 5 - Damages opponent for heavy Type-less damage, but 
+also damages your Pokemon.
+Sharpen: Normal - 30 - Increases Attack Power temporarily.
+Sing: Normal - 15 - Puts opponent to Sleep.
+Skull Bash: Normal - 15 - A two-turn attack that hits the opponent for heavy 
+Type-less damage.
+Sky Attack: Flying - 5 - A two-turn attack that hits the opponent for extreme 
+Flying-typed damage.
+Slam: Normal - 20 - Damages opponent for medium Type-less damage.
+Slash: Normal - 20 - Has a good chance for a Type-less critical hit.
+Sleep Powder: Grass - 15 - Puts opponent to Sleep.
+Sludge: Poison - 20 - Damages opponent for medium Poison-typed damage and 
+sometimes Poisons it.
+Smog: Poison - 20 - Damages opponent for medium Poison-typed damage and 
+sometimes Poisons it.
+SmokeScreen: Normal - 20 - Decreases opponent's Accuracy temporarily.
+Softboiled: Normal - 10 - Recovers half of your Pokemon's Max HP.  Out of 
+battle, HP can be transferred from the Pokemon who knows it to another Pokemon 
+at 1/8 the amount.
+SolarBeam: Grass - 10 - Damages opponent for extreme Grass-typed damage, but 
+takes two turns to use.
+SonicBoom: Normal - 20 - Causes 20 HP of damage to your opponent all the time.
+Spike Cannon: Normal - 15 - Hits opponent 2 to 5 times in a row for medium Type-
+less damage each time.
+Splash: Water - 40 - Useless move; does no damage.
+Spore: Bug - 15 - Puts opponent to Sleep.
+Stomp: Normal - 20 - Damages opponent for medium Type-less damage and sometimes 
+scares it.
+Strength: Normal - 15 - Damages opponent for heavy Type-less damage.  Out of 
+battle, moves boulders blocking your path.
+String Shot: Bug - 40 - Decreases opponent's Speed temporarily.
+Struggle: Normal - 10 - Deals Type-less damage to opponent, and can be used when 
+all PP is gone, but it causes your Pokemon to take 1/4 the damage dealt when 
+used that way.
+Stun Spore: Grass - 30 - Paralyzes opponent.
+Submission: Fighting - 25 - Damages opponent for medium Fighting-typed damage, 
+but your Pokemon recieves 1/4 the damage the attack deals.
+Substitute: Normal - 10 - Your Pokemon gives up 1/8 of its max HP to create a 
+clone of itself, which then fights you automatically for EXP.
+Super Fang: Normal - 10 - Cuts opponent's current HP in half.
+Supersonic: Normal - 20 - Confuses opponent.
+Surf: Water - 15 - Damages opponent for heavy Water-typed damage.  Out of 
+battle, allows you to travel on water.
+Swift: Normal - 20 - Damages opponent for medium Type-less damage.  Has 100% 
+accuracy.
+Swords Dance: Normal - 30 - Increases your Attack Power temporarily.
+
+- T -
+
+Tackle: Normal - 35 - Damages opponent for light Type-less damage.
+Tail Whip: Normal - 30 - Decreases opponent's Defense Power temporarily.
+Take Down: Normal - 20 - Damages opponent for heavy Type-less damage, but your 
+Pokemon recieves 1/4 the damage the attack deals.
+Teleport: Psychic - 20 - Escapes the battle automatically.  Does not work 
+against Trainers or Gym Leaders.  Outside of battle, teleports you to last Poke 
+Center you were at.
+Thrash: Normal - 20 - Hits opponent 2 to 5 times for medium Type-less damage 
+each hit, but Confuses your opponent.
+Thunder: Electric - 10 - Damages opponent for extreme Electric-typed damage and 
+sometimes Paralyzes it.
+Thunder Wave: Electric - 20 - Paralyzes opponent.
+Thunderbolt: Electric - 15 - Damages opponent for heavy Electric-typed damage 
+and sometimes Paralyzes it.
+ThunderPunch: Electric - 15 - Damages opponent for heavy Electric-typed damage 
+and sometimes Paralyzes it.
+ThunderShock: Electric - 30 - Damages opponent for medium Electric-typed damage 
+and sometimes Paralyzes it.
+Toxic: Poison - 10 - Poisons opponent, and deals more damage with each turn.
+Transform: Normal - 10 - Transforms your Pokemon into a copy of its opponent for 
+the duration of the battle (not permanent).  New moves have a max of 5 PP each.
+Tri Attack: Normal - 10 - Damages opponent for heavy Type-less damage.
+Twineedle: Bug - 20 - Hits the opponent two times in a row for medium Bug-typed 
+damage each time, and may Poison it.
+
+- V -
+
+ViceGrip: Normal - 30 - Damages opponent for light Type-less damage.
+Vine Whip: Grass - 10 - Damages opponent for heavy Grass-typed damage.
+
+- W -
+
+Water Gun: Water - 25 - Damages opponent for light Water-typed damage.
+Waterfall: Water - 15 - Damages opponent for heavy Water-typed damage.
+Whirlwind: Normal - 20 - Blows the opponent away, ending the battle 
+automatically.  Doesn't work against Trainers or Gym Leaders.
+Wing Attack: Flying - 35 - Damages opponent for light Flying-typed damage.
+Withdraw: Water - 40 - Increases Defense Power temporarily.
+Wrap: Normal - 20 - Hits the opponent 2 to 5 times in a row, doing light Type-
+less damage each time.

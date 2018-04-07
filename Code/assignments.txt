@@ -1,0 +1,4341 @@
+
+Rival           Version: R  B     
+	Charmander 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Squirtle   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Bulbasaur  
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+Rival           Version:       Y  
+
+Rival           Version: R  B     
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Charmander 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Squirtle   
+		Water, Ghost -   Grass 
+	Bulbasaur  
+		Flying, Ghost -  Psychic Ice 
+
+Rival           Version:       Y  
+
+Lass            Version: -  -  Y  
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Bug Catcher     Version: R  B     
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Bug Catcher     Version:       Y  
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Bug Catcher     Version: R        
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+
+Bug Catcher     Version:    B     
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Bug Catcher     Version:       Y  
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Bug Catcher     Version: -  -  Y  
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Metapod    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Bug Catcher     Version: R        
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+
+Bug Catcher     Version:    B     
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Bug Catcher     Version:       Y  
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Jr. Trainer     Version: R  B     
+	Diglett    
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Jr. Trainer     Version:       Y  
+	Diglett    
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Brock           Version: R  B     
+	Geodude    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Onix       
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Brock           Version:       Y  
+	Geodude    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Onix       
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Lass            Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Bug Catcher     Version: R  B  Y  
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Youngster       Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Bug Catcher     Version: R  B  Y  
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Lass            Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Youngster       Version: R  B  Y  
+	Spearow    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+
+Bug Catcher     Version: R  B  Y  
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Lass            Version: R  B  Y  
+	Jigglypuff 
+		Water, Rock -    Fighting 
+
+Bug Catcher     Version: R  B  Y  
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+
+Lass            Version: R  B  Y  
+	Clefairy   
+		Water, Rock -    Fighting 
+
+Rocket          Version: R  B  Y  
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Rattata    
+		Water, Rock -    Fighting 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Super Nerd      Version: R  B  Y  
+	Magnemite  
+		Ground, Rock -   Ground 
+	Voltorb    
+		Ground, Rock -   Ground 
+
+Bug Catcher     Version: R  B  Y  
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+
+Lass            Version: R  B  Y  
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+	Bellsprout 
+		Flying, Ghost -  Psychic Ice 
+
+Rocket          Version: R  B  Y  
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Youngster       Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Rattata    
+		Water, Rock -    Fighting 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Hiker           Version: R  B  Y  
+	Geodude    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Geodude    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Onix       
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Rocket          Version: R  B     
+	Raticate   
+		Water, Rock -    Fighting 
+
+Rocket          Version:       Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Rocket          Version: R  B  -  
+	Rattata    
+		Water, Rock -    Fighting 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Super Nerd      Version: R  B  Y  
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Voltorb    
+		Ground, Rock -   Ground 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: -  -  Y  
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Meowth     
+		Water, Rock -    Fighting 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rival           Version: R  B     
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Rattata    
+		Water, Rock -    Fighting 
+	Charmander 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Squirtle   
+		Water, Ghost -   Grass 
+	Bulbasaur  
+		Flying, Ghost -  Psychic Ice 
+
+Rival           Version:       Y  
+	Spearow    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Rattata    
+		Water, Rock -    Fighting 
+	Eevee      
+		Water, Rock -    Fighting 
+
+Bug Catcher     Version: R  B  Y  
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+
+Lass            Version: R  B     
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version:       Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Youngster       Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Lass            Version: R  B     
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version:       Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Jr.Trainer M    Version: R  B     
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Jr.Trainer M    Version:       Y  
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Jr.Trainer M    Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Hiker           Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Geodude    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Hiker           Version: R  B  Y  
+	Onix       
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Youngster       Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Spearow    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+
+Youngster       Version: R  B  Y  
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+
+Lass            Version: R  B     
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version:       Y  
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Hiker           Version: R  B  Y  
+	Geodude    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Geodude    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Geodude    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Jr.Trainer M    Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Youngster       Version: R  B  Y  
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version: R  B  Y  
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+
+Rocket          Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Drowzee    
+		Psychic, Ghost - Bug 
+
+Swimmer         Version: R  B  Y  
+	Horsea     
+		Water, Ghost -   Grass 
+	Shellder   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Jr.Trainer F    Version: R  B  Y  
+	Goldeen    
+		Ground, Rock -   Grass 
+
+Misty           Version: R  B  Y  
+	Staryu     
+		Water, Ghost -   Grass 
+	Starmie    
+		Water, Ghost -   Grass 
+
+Bug Catcher     Version: R  B  Y  
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+
+Jr.Trainer M    Version: R  B     
+	Squirtle   
+		Water, Ghost -   Grass 
+
+Bug Catcher     Version:       Y  
+	Weepinbell 
+		Flying, Ghost -  Psychic Ice 
+
+Jr.Trainer F    Version: R  B     
+	Rattata    
+		Water, Rock -    Fighting 
+	Pikachu    
+		Ground, Rock -   Ground 
+
+Jr.Trainer F    Version:       Y  
+	Cubone     
+		Flying, Ghost -  Ice 
+
+Bug Catcher     Version: R  B     
+	Butterfree 
+		Psychic, Ghost - Flying Electric 
+
+Bug Catcher     Version:       Y  
+
+Jr.Trainer F    Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Jr.Trainer M    Version: R  B  Y  
+	Spearow    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Raticate   
+		Water, Rock -    Fighting 
+
+Youngster       Version: R  B  Y  
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Gambler         Version: R  B  Y  
+	Poliwag    
+		Water, Ghost -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+
+Youngster       Version: R  B  Y  
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Youngster       Version: R  B  Y  
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidorino   
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Youngster       Version: R  B  Y  
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidorino   
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Gambler         Version: R  B  Y  
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+
+Gambler         Version: R  B  Y  
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Engineer        Version: R  B  Y  
+	Magnemite  
+		Ground, Rock -   Ground 
+
+Engineer        Version: R  B  Y  
+	Magnemite  
+		Ground, Rock -   Ground 
+	Magnemite  
+		Ground, Rock -   Ground 
+	Magneton   
+		Ground, Rock -   Ground 
+
+Gambler         Version: R  B  Y  
+	Voltorb    
+		Ground, Rock -   Ground 
+	Magnemite  
+		Ground, Rock -   Ground 
+
+Youngster       Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Rattata    
+		Water, Rock -    Fighting 
+	Raticate   
+		Water, Rock -    Fighting 
+
+Gentleman       Version: R  B  Y  
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Sailor          Version: R  B  Y  
+	Shellder   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Sailor          Version: R  B  Y  
+	Horsea     
+		Water, Ghost -   Grass 
+	Shellder   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Tentacool  
+		Psychic, Ghost - Bug Electric 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Sailor          Version: R  B  Y  
+	Horsea     
+		Water, Ghost -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+
+Sailor          Version: R  B  Y  
+	Tentacool  
+		Psychic, Ghost - Bug Electric 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Staryu     
+		Water, Ghost -   Grass 
+
+Fisherman       Version: R  B  Y  
+	Tentacool  
+		Psychic, Ghost - Bug Electric 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Staryu     
+		Water, Ghost -   Grass 
+	Shellder   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Sailor          Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Gentleman       Version: R  B     
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Gentleman       Version:       Y  
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Youngster       Version: R  B     
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Youngster       Version:       Y  
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version: R  B     
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version:       Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Sailor          Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Tentacool  
+		Psychic, Ghost - Bug Electric 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Sailor          Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Shellder   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Fisherman       Version: R  B  Y  
+	Goldeen    
+		Ground, Rock -   Grass 
+	Tentacool  
+		Psychic, Ghost - Bug Electric 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Goldeen    
+		Ground, Rock -   Grass 
+
+Gentleman       Version: R  B     
+	Pikachu    
+		Ground, Rock -   Ground 
+
+Gentleman       Version:       Y  
+	Voltorb    
+		Ground, Rock -   Ground 
+	Magnemite  
+		Ground, Rock -   Ground 
+
+Gentleman       Version: R  B  Y  
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Ponyta     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Lass            Version: R  B     
+	Rattata    
+		Water, Rock -    Fighting 
+	Pikachu    
+		Ground, Rock -   Ground 
+
+Lass            Version:       Y  
+	Jigglypuff 
+		Water, Rock -    Fighting 
+
+Rival           Version: R  B     
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Raticate   
+		Water, Rock -    Fighting 
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Charmeleon 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Wartortle  
+		Water, Ghost -   Grass 
+	Ivysaur    
+		Flying, Ghost -  Psychic Ice 
+
+Rival           Version:       Y  
+	Spearow    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Rattata    
+		Water, Rock -    Fighting 
+	Eevee      
+		Water, Rock -    Fighting 
+
+Sailor          Version: R  B     
+	Pikachu    
+		Ground, Rock -   Ground 
+	Pikachu    
+		Ground, Rock -   Ground 
+
+Sailor          Version:       Y  
+	Magnemite  
+		Ground, Rock -   Ground 
+
+Rocker          Version: R  B     
+	Voltorb    
+		Ground, Rock -   Ground 
+	Magnemite  
+		Ground, Rock -   Ground 
+	Voltorb    
+		Ground, Rock -   Ground 
+
+Rocker          Version:       Y  
+	Voltorb    
+		Ground, Rock -   Ground 
+	Voltorb    
+		Ground, Rock -   Ground 
+	Voltorb    
+		Ground, Rock -   Ground 
+
+Gentleman       Version: R  B     
+	Pikachu    
+		Ground, Rock -   Ground 
+
+Gentleman       Version:       Y  
+	Voltorb    
+		Ground, Rock -   Ground 
+	Magnemite  
+		Ground, Rock -   Ground 
+
+Lt. Surge       Version: R  B     
+	Voltorb    
+		Ground, Rock -   Ground 
+	Pikachu    
+		Ground, Rock -   Ground 
+	Raichu     
+		Ground, Rock -   Ground 
+
+Lt. Surge       Version:       Y  
+	Raichu     
+		Ground, Rock -   Ground 
+
+Jr.Trainer F    Version: R  B  Y  
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+Hiker           Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+
+Jr.Trainer M    Version: R  B     
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Charmander 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Youngster       Version:       Y  
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Bug Catcher     Version: R  B  Y  
+	Beedrill   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+	Beedrill   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+
+Hiker           Version: R  B  Y  
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+
+Bug Catcher     Version: R  B     
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+	Venonat    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+
+Bug Catcher     Version:       Y  
+	Caterpie   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Weedle     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Flying Bug 
+		Flying, Ghost -  Psychic Rock 
+		Water, Ghost -   Psychic Rock 
+	Venonat    
+		Psychic, Ghost - Flying Bug 
+
+Jr. Trainer M   Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Diglett    
+		Flying, Ghost -  Ice 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Hiker           Version: R  B  Y  
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+
+Jr.Trainer F    Version: R  B  Y  
+	Meowth     
+		Water, Rock -    Fighting 
+
+Jr.Trainer F    Version: R  B     
+	Pikachu    
+		Ground, Rock -   Ground 
+	Clefairy   
+		Water, Rock -    Fighting 
+
+Jr.Trainer F    Version:       Y  
+	Jigglypuff 
+		Water, Rock -    Fighting 
+	Clefairy   
+		Water, Rock -    Fighting 
+
+Pokemaniac      Version: R  B     
+	Cubone     
+		Flying, Ghost -  Ice 
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+
+Pokemaniac      Version:       Y  
+	Cubone     
+		Flying, Ghost -  Ice 
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+
+Pokemaniac      Version: R  B  Y  
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+
+Jr.Trainer F    Version: R  B  Y  
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+	Bulbasaur  
+		Flying, Ghost -  Psychic Ice 
+
+Pokemaniac      Version: R  B     
+	Charmander 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Cubone     
+		Flying, Ghost -  Ice 
+
+Pokemaniac      Version:       Y  
+	Charmander 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Cubone     
+		Flying, Ghost -  Ice 
+
+Hiker           Version: R  B  Y  
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+
+Hiker           Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+
+Hiker           Version: R  B  Y  
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+
+Hiker           Version: R  B  Y  
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+
+Hiker           Version: R  B  Y  
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+	Graveler   
+		Ground, Rock -   Ground Ice Grass 
+
+Jr.Trainer F    Version: R  B  Y  
+	Jigglypuff 
+		Water, Rock -    Fighting 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Meowth     
+		Water, Rock -    Fighting 
+
+Hiker           Version: R  B  Y  
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+	Graveler   
+		Ground, Rock -   Ground Ice Grass 
+
+Pokemaniac      Version: R  B  Y  
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+
+Jr.Trainer F    Version: R  B  Y  
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Clefairy   
+		Water, Rock -    Fighting 
+
+Jr.Trainer F    Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Rattata    
+		Water, Rock -    Fighting 
+	Rattata    
+		Water, Rock -    Fighting 
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+Jr.Trainer F    Version: R  B  Y  
+	Meowth     
+		Water, Rock -    Fighting 
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Jr.Trainer F    Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Hiker           Version: R  B  Y  
+	Geodude    
+		Ground, Rock -   Ground Ice Grass 
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+
+Hiker           Version: R  B  Y  
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+	Graveler   
+		Ground, Rock -   Ground Ice Grass 
+
+Pokemaniac      Version: R  B     
+	Cubone     
+		Flying, Ghost -  Ice 
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+
+Pokemaniac      Version:       Y  
+	Cubone     
+		Flying, Ghost -  Ice 
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+
+Lass            Version: R  B  Y  
+	Clefairy   
+		Water, Rock -    Fighting 
+	Clefairy   
+		Water, Rock -    Fighting 
+
+Gambler         Version: R  B  Y  
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Super Nerd      Version: R  B  Y  
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Muk        
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version: R  B     
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidorina   
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version:       Y  
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidorina   
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Super Nerd      Version: R  B  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version: R  B  Y  
+	Meowth     
+		Water, Rock -    Fighting 
+	Meowth     
+		Water, Rock -    Fighting 
+	Meowth     
+		Water, Rock -    Fighting 
+
+Lass            Version: R  B     
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Rattata    
+		Water, Rock -    Fighting 
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Meowth     
+		Water, Rock -    Fighting 
+	Pikachu    
+		Ground, Rock -   Ground 
+
+Lass            Version:       Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Rattata    
+		Water, Rock -    Fighting 
+	Nidoran F  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Meowth     
+		Water, Rock -    Fighting 
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Gambler         Version: R  B  Y  
+	Poliwag    
+		Water, Ghost -   Grass 
+	Poliwag    
+		Water, Ghost -   Grass 
+	Poliwhirl  
+		Water, Ghost -   Grass 
+
+Super Nerd      Version: R  B  Y  
+	Voltorb    
+		Ground, Rock -   Ground 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Voltorb    
+		Ground, Rock -   Ground 
+	Magnemite  
+		Ground, Rock -   Ground 
+
+Rocket          Version: R  B  Y  
+	Raticate   
+		Water, Rock -    Fighting 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Rocket          Version: R  B  Y  
+	Drowzee    
+		Psychic, Ghost - Bug 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Raticate   
+		Water, Rock -    Fighting 
+	Raticate   
+		Water, Rock -    Fighting 
+
+Rocket          Version: R  B  Y  
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Raticate   
+		Water, Rock -    Fighting 
+
+Rocket          Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Raticate   
+		Water, Rock -    Fighting 
+	Drowzee    
+		Psychic, Ghost - Bug 
+
+Rocket          Version: R  B  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Rocket          Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Raticate   
+		Water, Rock -    Fighting 
+	Raticate   
+		Water, Rock -    Fighting 
+	Rattata    
+		Water, Rock -    Fighting 
+
+Rocket          Version: R  B  Y  
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  -  
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  -  
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Sandslash  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Rocket          Version: -  -  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Meowth     
+		Water, Rock -    Fighting 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Giovanni        Version: R  B     
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Kangaskhan 
+		Water, Rock -    Fighting 
+
+Giovanni        Version:       Y  
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Persian    
+		Water, Rock -    Fighting 
+
+Rocket          Version: R  B  Y  
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Lass            Version: R  B  Y  
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Weepinbell 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+Beauty          Version: R  B  Y  
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+Jr. Trainer F   Version: R  B  Y  
+	Bulbasaur  
+		Flying, Ghost -  Psychic Ice 
+	Ivysaur    
+		Flying, Ghost -  Psychic Ice 
+
+Beauty          Version: R  B  Y  
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+Beauty          Version: R  B  Y  
+	Exeggcute  
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+
+CoolTrainer F   Version: R  B  Y  
+	Weepinbell 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Gloom      
+		Flying, Ghost -  Psychic Ice 
+	Ivysaur    
+		Flying, Ghost -  Psychic Ice 
+
+CoolTrainer F   Version: R  B  Y  
+	Oddish     
+		Flying, Ghost -  Psychic Ice 
+	Gloom      
+		Flying, Ghost -  Psychic Ice 
+
+Erika           Version: R  B     
+	Victreebel 
+		Flying, Ghost -  Psychic Ice 
+	Tangela    
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+	Vileplume  
+		Flying, Ghost -  Psychic Ice 
+
+Erika           Version:       Y  
+	Tangela    
+		Flying, Ghost -  Ice 
+	Weepinbell 
+		Flying, Ghost -  Psychic Ice 
+	Gloom      
+		Flying, Ghost -  Psychic Ice 
+
+Rival           Version: R  B     
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Exeggcute  
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+	Gyarados   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Charmeleon 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Exeggcute  
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Wartortle  
+		Water, Ghost -   Grass 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Gyarados   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Ivysaur    
+		Flying, Ghost -  Psychic Ice 
+
+Rival           Version:       Y  
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Magnemite  
+		Ground, Rock -   Ground 
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Eevee      
+		Water, Rock -    Fighting 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Magnemite  
+		Ground, Rock -   Ground 
+	Shellder   
+		Water, Ghost -   Grass 
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Eevee      
+		Water, Rock -    Fighting 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Shellder   
+		Water, Ghost -   Grass 
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Eevee      
+		Water, Rock -    Fighting 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Haunter    
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Haunter    
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+	Gastly     
+		Psychic, Ghost - Bug 
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+
+Rocket          Version: R  B  -  
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Golbat     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice Rock 
+		Water, Ghost -   Psychic Rock 
+
+Rocket          Version: R  B  -  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Drowzee    
+		Psychic, Ghost - Bug 
+
+Rocket          Version: R  B  -  
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Rattata    
+		Water, Rock -    Fighting 
+	Raticate   
+		Water, Rock -    Fighting 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Rocket          Version: -  -  Y  
+	Meowth     
+		Water, Rock -    Fighting 
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Snorlax    
+		Water, Rock -    Fighting 
+
+Biker           Version: R  B  Y  
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version: R  B     
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version:       Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version: R  B     
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version:       Y  
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version: R  B     
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version:       Y  
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Muk        
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version: R  B     
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version:       Y  
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Muk        
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Voltorb    
+		Ground, Rock -   Ground 
+	Voltorb    
+		Ground, Rock -   Ground 
+
+Cue Ball        Version: R  B  Y  
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version: R  B     
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version:       Y  
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Bird Keeper     Version: R  B  Y  
+	Spearow    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Bird Keeper     Version: R  B  Y  
+	Spearow    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Spearow    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Spearow    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Bird Keeper     Version: R  B  Y  
+	Dodrio     
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+
+Fisherman       Version: R  B  Y  
+	Goldeen    
+		Ground, Rock -   Grass 
+	Poliwag    
+		Water, Ghost -   Grass 
+	Goldeen    
+		Ground, Rock -   Grass 
+
+Fisherman       Version: R  B  Y  
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Goldeen    
+		Ground, Rock -   Grass 
+
+Fisherman       Version: R  B  Y  
+	Goldeen    
+		Ground, Rock -   Grass 
+
+Fisherman       Version: R  B  Y  
+	Poliwag    
+		Water, Ghost -   Grass 
+	Shellder   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Goldeen    
+		Ground, Rock -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+	Snorlax    
+		Water, Rock -    Fighting 
+
+Rocker          Version: R  B  Y  
+	Voltorb    
+		Ground, Rock -   Ground 
+	Electrode  
+		Ground, Rock -   Ground 
+
+Fisherman       Version: R  B  Y  
+	Magikarp   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Magikarp   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Jr. Trainer M   Version: R  B     
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidorino   
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Jr. Trainer M   Version:       Y  
+	Nidoran M  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidorino   
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Jr. Trainer F   Version: R  B  Y  
+	Goldeen    
+		Ground, Rock -   Grass 
+	Poliwag    
+		Water, Ghost -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+
+Bird Keeper     Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Jr. Trainer M   Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Meowth     
+		Water, Rock -    Fighting 
+	Rattata    
+		Water, Rock -    Fighting 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Meowth     
+		Water, Rock -    Fighting 
+
+Beauty          Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Rattata    
+		Water, Rock -    Fighting 
+
+Beauty          Version: R  B  Y  
+	Clefairy   
+		Water, Rock -    Fighting 
+	Meowth     
+		Water, Rock -    Fighting 
+
+Jr. Trainer F   Version: R  B  Y  
+	Poliwag    
+		Water, Ghost -   Grass 
+	Poliwag    
+		Water, Ghost -   Grass 
+
+Jr. Trainer F   Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Meowth     
+		Water, Rock -    Fighting 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Bird Keeper     Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Spearow    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Bird Keeper     Version: R  B  Y  
+	Spearow    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Spearow    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Spearow    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Biker           Version: R  B  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Bird Keeper     Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Bird Keeper     Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Doduo      
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Bird Keeper     Version: R  B  Y  
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Bird Keeper     Version: R  B  Y  
+	Spearow    
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Doduo      
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Biker           Version: R  B  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Muk        
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Bird Keeper     Version: R  B  Y  
+	Farfetch'd 
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Biker           Version: R  B  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Bird Keeper     Version: R  B  Y  
+	Spearow    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Jr. Trainer F   Version: R  B  Y  
+	Clefairy   
+		Water, Rock -    Fighting 
+
+Jr. Trainer F   Version: R  B  Y  
+	Pidgey     
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Beauty          Version: R  B  Y  
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Wigglytuff 
+		Water, Rock -    Fighting 
+
+Biker           Version: R  B  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Biker           Version: R  B  Y  
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Beauty          Version: R  B  Y  
+	Bulbasaur  
+		Flying, Ghost -  Psychic Ice 
+	Ivysaur    
+		Flying, Ghost -  Psychic Ice 
+
+Jr. Trainer F   Version: R  B  Y  
+	Gloom      
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Oddish     
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Oddish     
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+Bird Keeper     Version: R  B  Y  
+	Dodrio     
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Doduo      
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Doduo      
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+
+Bird Keeper     Version: R  B  Y  
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Farfetch'd 
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Doduo      
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Pidgey     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Jr. Trainer F   Version: R  B     
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Oddish     
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Tangela    
+		Flying, Ghost -  Ice 
+
+Jr. Trainer F   Version:       Y  
+	Bellsprout 
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Oddish     
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Tangela    
+		Flying, Ghost -  Ice 
+
+Juggler         Version: R  B  Y  
+	Drowzee    
+		Psychic, Ghost - Bug 
+	Kadabra    
+		Psychic, Ghost - Bug 
+
+Juggler         Version: R  B  Y  
+	Hypno      
+		Psychic, Ghost - Bug 
+
+Juggler         Version: R  B  Y  
+	Drowzee    
+		Psychic, Ghost - Bug 
+	Drowzee    
+		Psychic, Ghost - Bug 
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Drowzee    
+		Psychic, Ghost - Bug 
+
+Tamer           Version: R  B  Y  
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Sandslash  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Tamer           Version: R  B  Y  
+	Sandslash  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Juggler         Version: R  B  Y  
+	Drowzee    
+		Psychic, Ghost - Bug 
+	Hypno      
+		Psychic, Ghost - Bug 
+
+Koga            Version: R  B     
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Muk        
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Pokemaniac      Version: R  B     
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Lickitung  
+		Water, Rock -    Fighting 
+
+Pokemaniac      Version:       Y  
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Lickitung  
+		Water, Rock -    Fighting 
+	Voltorb    
+		Ground, Rock -   Ground 
+	Electrode  
+		Ground, Rock -   Ground 
+	Zapdos     
+		Ground, Rock -   Ice 
+
+Blackbelt       Version: R  B     
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Blackbelt       Version:       Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Blackbelt       Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Blackbelt       Version: R  B     
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Blackbelt       Version:       Y  
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Blackbelt       Version: R  B     
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Blackbelt       Version:       Y  
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Mankey     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Primeape   
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Blackbelt       Version: R  B  Y  
+	Hitmonlee  
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Hitmonchan 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Golbat     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice Rock 
+		Water, Ghost -   Psychic Rock 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Raticate   
+		Water, Rock -    Fighting 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+
+Rocket          Version: R  B     
+	Cubone     
+		Flying, Ghost -  Ice 
+	Zubat      
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+
+Rocket          Version:       Y  
+	Cubone     
+		Flying, Ghost -  Ice 
+	Zubat      
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+
+Scientist       Version: R  B  Y  
+	Magnemite  
+		Ground, Rock -   Ground 
+	Voltorb    
+		Ground, Rock -   Ground 
+	Magneton   
+		Ground, Rock -   Ground 
+
+Scientist       Version: R  B  Y  
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Raticate   
+		Water, Rock -    Fighting 
+	Hypno      
+		Psychic, Ghost - Bug 
+	Raticate   
+		Water, Rock -    Fighting 
+
+Scientist       Version: R  B  Y  
+	Electrode  
+		Ground, Rock -   Ground 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B     
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Zubat      
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Cubone     
+		Flying, Ghost -  Ice 
+
+Rocket          Version:       Y  
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Zubat      
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Cubone     
+		Flying, Ghost -  Ice 
+
+Rocket          Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Drowzee    
+		Psychic, Ghost - Bug 
+
+Scientist       Version: R  B  Y  
+	Electrode  
+		Ground, Rock -   Ground 
+
+Rocket          Version: R  B  Y  
+	Hypno      
+		Psychic, Ghost - Bug 
+
+Juggler         Version: R  B  Y  
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Mr. Mime   
+		Psychic, Ghost - Bug 
+
+Scientist       Version: R  B  Y  
+	Magneton   
+		Ground, Rock -   Ground 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Magnemite  
+		Ground, Rock -   Ground 
+
+Rocket          Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Scientist       Version: R  B  Y  
+	Voltorb    
+		Ground, Rock -   Ground 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Magneton   
+		Ground, Rock -   Ground 
+	Magnemite  
+		Ground, Rock -   Ground 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Golbat     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice Rock 
+		Water, Ghost -   Psychic Rock 
+
+Rocket          Version: R  B     
+	Cubone     
+		Flying, Ghost -  Ice 
+	Cubone     
+		Flying, Ghost -  Ice 
+
+Rocket          Version:       Y  
+	Cubone     
+		Flying, Ghost -  Ice 
+	Cubone     
+		Flying, Ghost -  Ice 
+
+Rocket          Version: R  B  Y  
+	Sandshrew  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Sandslash  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Rocket          Version: R  B  Y  
+	Raticate   
+		Water, Rock -    Fighting 
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Golbat     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice Rock 
+		Water, Ghost -   Psychic Rock 
+
+Scientist       Version: R  B  Y  
+	Electrode  
+		Ground, Rock -   Ground 
+	Muk        
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Raticate   
+		Water, Rock -    Fighting 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Golbat     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice Rock 
+		Water, Ghost -   Psychic Rock 
+	Rattata    
+		Water, Rock -    Fighting 
+
+Rocket          Version: R  B  Y  
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Golbat     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice Rock 
+		Water, Ghost -   Psychic Rock 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Scientist       Version: R  B  Y  
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Electrode  
+		Ground, Rock -   Ground 
+
+Rocket          Version: R  B  Y  
+	Golbat     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Psychic Ice Rock 
+		Water, Ghost -   Psychic Rock 
+	Drowzee    
+		Psychic, Ghost - Bug 
+	Hypno      
+		Psychic, Ghost - Bug 
+
+Rocket          Version: R  B  Y  
+	Drowzee    
+		Psychic, Ghost - Bug 
+	Grimer     
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Scientist       Version: R  B  Y  
+	Voltorb    
+		Ground, Rock -   Ground 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Magneton   
+		Ground, Rock -   Ground 
+
+Scientist       Version: R  B  Y  
+	Magnemite  
+		Ground, Rock -   Ground 
+	Koffing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rocket          Version: R  B  Y  
+	Rattata    
+		Water, Rock -    Fighting 
+	Rattata    
+		Water, Rock -    Fighting 
+	Zubat      
+		Flying, Ghost -  Psychic Ice Rock 
+	Rattata    
+		Water, Rock -    Fighting 
+	Ekans      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Rival           Version: R  B     
+	Pidgeot    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Exeggcute  
+		Flying, Ghost -  Ice 
+	Gyarados   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Alakazam   
+		Psychic, Ghost - Bug 
+	Charizard  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ice 
+		Water, Ghost -   Rock 
+	Pidgeot    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Exeggcute  
+		Flying, Ghost -  Ice 
+	Alakazam   
+		Psychic, Ghost - Bug 
+	Blastoise  
+		Water, Ghost -   Grass 
+	Pidgeot    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Gyarados   
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Alakazam   
+		Psychic, Ghost - Bug 
+	Venusaur   
+		Flying, Ghost -  Psychic Ice 
+
+Rocket          Version: -  -  Y  
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Meowth     
+		Water, Rock -    Fighting 
+
+Rocket          Version: R  B  -  
+	Cubone     
+		Flying, Ghost -  Ice 
+	Drowzee    
+		Psychic, Ghost - Bug 
+	Marowak    
+		Flying, Ghost -  Ice 
+
+Giovanni        Version: R  B     
+	Nidorino   
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Kangaskhan 
+		Water, Rock -    Fighting 
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Nidoqueen  
+		Water, Rock -    Water 
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+Giovanni        Version:       Y  
+	Nidorino   
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Persian    
+		Water, Rock -    Fighting 
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Nidoqueen  
+		Psychic, Ghost - Bug 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+Psychic         Version: R  B  Y  
+	Slowpoke   
+		Water, Ghost -   Grass 
+	Slowpoke   
+		Water, Ghost -   Grass 
+	Slowbro    
+		Water, Ghost -   Grass 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+	Gastly     
+		Psychic, Ghost - Bug 
+	Haunter    
+		Psychic, Ghost - Bug 
+
+Psychic         Version: R  B  Y  
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Slowpoke   
+		Psychic, Ghost - Bug Electric 
+	Mr. Mime   
+		Psychic, Ghost - Bug 
+	Kadabra    
+		Psychic, Ghost - Bug 
+
+Psychic         Version: R  B  Y  
+	Slowbro    
+		Water, Ghost -   Grass 
+
+Channeler       Version: R  B  Y  
+	Gastly     
+		Psychic, Ghost - Bug 
+	Haunter    
+		Psychic, Ghost - Bug 
+
+Channeler       Version: R  B  Y  
+	Haunter    
+		Psychic, Ghost - Bug 
+
+Psychic         Version: R  B  Y  
+	Mr. Mime   
+		Psychic, Ghost - Bug 
+	Kadabra    
+		Psychic, Ghost - Bug 
+
+Sabrina         Version: R  B     
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Mr. Mime   
+		Psychic, Ghost - Bug 
+	Venomoth   
+		KOWTOW
+	Alakazam   
+		Psychic, Ghost - Bug 
+
+Sabrina         Version:       Y  
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Alakazam   
+		Psychic, Ghost - Bug 
+
+Swimmer         Version: R  B  Y  
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Shellder   
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Goldeen    
+		Ground, Rock -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+	Staryu     
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Horsea     
+		Water, Ghost -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Poliwag    
+		Water, Ghost -   Grass 
+	Poliwhirl  
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Horsea     
+		Water, Ghost -   Grass 
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Goldeen    
+		Ground, Rock -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Goldeen    
+		Ground, Rock -   Grass 
+	Shellder   
+		Water, Ghost -   Grass 
+	Seaking    
+		Ground, Rock -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Staryu     
+		Water, Ghost -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+	Tentacruel 
+		Water, Ghost -   Psychic 
+
+Beauty          Version: R  B  Y  
+	Poliwag    
+		Water, Ghost -   Grass 
+	Goldeen    
+		Ground, Rock -   Grass 
+	Seaking    
+		Ground, Rock -   Grass 
+	Goldeen    
+		Ground, Rock -   Grass 
+	Poliwag    
+		Water, Ghost -   Grass 
+
+Beauty          Version: R  B  Y  
+	Staryu     
+		Water, Ghost -   Grass 
+	Staryu     
+		Water, Ghost -   Grass 
+	Staryu     
+		Water, Ghost -   Grass 
+
+Beauty          Version: R  B  Y  
+	Goldeen    
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Seaking    
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Horsea     
+		Water, Ghost -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+	Seadra     
+		Water, Ghost -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Shellder   
+		Water, Ghost -   Grass 
+	Cloyster   
+		Water, Ghost -   Grass Rock 
+
+Beauty          Version: R  B  Y  
+	Seadra     
+		Water, Ghost -   Grass 
+	Horsea     
+		Water, Ghost -   Grass 
+	Seadra     
+		Water, Ghost -   Grass 
+
+Beauty          Version: R  B  Y  
+	Seaking    
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Articuno   
+		Water, Rock -    Rock 
+
+Fisherman       Version: R  B  Y  
+	Seaking    
+		Ground, Rock -   Grass 
+	Goldeen    
+		Ground, Rock -   Grass 
+	Seaking    
+		Ground, Rock -   Grass 
+	Seaking    
+		Ground, Rock -   Grass 
+
+Fisherman       Version: R  B  Y  
+	Magikarp   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Magikarp   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Magikarp   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Magikarp   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Magikarp   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Magikarp   
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Seadra     
+		Water, Ghost -   Grass 
+	Tentacruel 
+		Water, Ghost -   Psychic 
+
+Cue Ball        Version: R  B  Y  
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Tentacruel 
+		Water, Ghost -   Psychic 
+
+Fisherman       Version: R  B  Y  
+	Shellder   
+		Water, Ghost -   Grass 
+	Cloyster   
+		Water, Ghost -   Grass Rock 
+
+Fisherman       Version: R  B  Y  
+	Seaking    
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Goldeen    
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Starmie    
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Poliwhirl  
+		Water, Ghost -   Grass 
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Seadra     
+		Water, Ghost -   Grass 
+
+Swimmer         Version: R  B  Y  
+	Staryu     
+		Water, Ghost -   Grass 
+	Wartortle  
+		Water, Ghost -   Grass 
+
+Beauty          Version: R  B  Y  
+	Poliwag    
+		Water, Ghost -   Grass 
+	Goldeen    
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Beauty          Version: R  B  Y  
+	Shellder   
+		Water, Ghost -   Grass 
+	Shellder   
+		Water, Ghost -   Grass 
+	Cloyster   
+		Water, Ghost -   Grass Rock 
+
+Jr. Trainer F   Version: R  B  Y  
+	Goldeen    
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+	Seaking    
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Bird Keeper     Version: R  B  Y  
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Fearow     
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Pidgeotto  
+		Water, Rock -    Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Swimmer         Version: R  B  Y  
+	Staryu     
+		Water, Ghost -   Grass 
+
+Jr. Trainer F   Version: R  B  Y  
+	Tentacool  
+		Water, Ghost -   Psychic 
+	Horsea     
+		Water, Ghost -   Grass 
+	Seel       
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Grass 
+		Water, Ghost -   Grass 
+
+Burglar         Version: R  B  Y  
+	Ninetales  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Burglar         Version: R  B  Y  
+	Charmander 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Charmeleon 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Scientist       Version: R  B  Y  
+	Magnemite  
+		Ground, Rock -   Ground 
+	Magneton   
+		Ground, Rock -   Ground 
+	Voltorb    
+		Ground, Rock -   Ground 
+
+Scientist       Version: R  B  Y  
+	Electrode  
+		Ground, Rock -   Ground 
+	Weezing    
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Burglar         Version: R  B  Y  
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Ponyta     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Scientist       Version: R  B  Y  
+	Magnemite  
+		Ground, Rock -   Ground 
+	Electrode  
+		Ground, Rock -   Ground 
+
+Burglar         Version: R  B  Y  
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Ninetales  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Super Nerd      Version: R  B  Y  
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Ninetales  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Super Nerd      Version: R  B  Y  
+	Ponyta     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Charmander 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Rock 
+		Water, Ghost -   Rock 
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Burglar         Version: R  B  Y  
+	Ponyta     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Super Nerd      Version: R  B  Y  
+	Rapidash   
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Burglar         Version: R  B  Y  
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Super Nerd      Version: R  B  Y  
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Vulpix     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Blaine          Version: R  B     
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Ponyta     
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Rapidash   
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Arcanine   
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+Tamer           Version: R  B  Y  
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Tauros     
+		Water, Rock -    Fighting 
+
+Blackbelt       Version: R  B  Y  
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+CoolTrainer M   Version: R  B     
+	Nidorino   
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Nidoking   
+		Water, Rock -    Water 
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+
+CoolTrainer M   Version: R  B  Y  
+	Sandslash  
+		Water, Rock -    Water 
+		Ground, Rock -   Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Dugtrio    
+		Flying, Ghost -  Ice 
+
+Blackbelt       Version: R  B  Y  
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Tamer           Version: R  B  Y  
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+CoolTrainer M   Version: R  B  Y  
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+
+Blackbelt       Version: R  B  Y  
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Giovanni        Version: R  B     
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Dugtrio    
+		Flying, Ghost -  Ice 
+	Nidoqueen  
+		Water, Rock -    Water 
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Nidoking   
+		Water, Rock -    Water 
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground Ice 
+		Flying, Ghost -  Psychic Ice 
+		Water, Ghost -   Psychic 
+	Rhydon     
+		Flying, Ghost -  Ice 
+
+Rival           Version: R  B     
+	Pidgeot    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Exeggcute  
+		Flying, Ghost -  Ice 
+	Gyarados   
+		Water, Ghost -   Rock 
+	Alakazam   
+		Psychic, Ghost - Bug 
+	Charizard  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ice 
+		Water, Ghost -   Rock 
+	Pidgeot    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Exeggcute  
+		Flying, Ghost -  Ice 
+	Alakazam   
+		Psychic, Ghost - Bug 
+	Blastoise  
+		Water, Ghost -   Grass 
+	Pidgeot    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Rhyhorn    
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Gyarados   
+		Water, Ghost -   Rock 
+	Growlithe  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Alakazam   
+		Psychic, Ghost - Bug 
+	Venusaur   
+		Flying, Ghost -  Psychic Ice 
+
+CoolTrainer F   Version: R  B  Y  
+	Persian    
+		Water, Rock -    Fighting 
+	Ninetales  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+CoolTrainer M   Version: R  B  Y  
+	Ivysaur    
+		Flying, Ghost -  Psychic Ice 
+	Wartortle  
+		Water, Ghost -   Grass 
+	Charmeleon 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Charizard  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ice 
+		Water, Ghost -   Rock 
+
+Blackbelt       Version: R  B  Y  
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machop     
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Machoke    
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+
+Juggler         Version: R  B  Y  
+	Drowzee    
+		Psychic, Ghost - Bug 
+	Hypno      
+		Psychic, Ghost - Bug 
+	Kadabra    
+		Psychic, Ghost - Bug 
+	Kadabra    
+		Psychic, Ghost - Bug 
+
+Tamer           Version: R  B  Y  
+	Persian    
+		Water, Rock -    Fighting 
+	Golduck    
+		Psychic, Ghost - Electric 
+
+Juggler         Version: R  B  Y  
+	Mr. Mime   
+		Psychic, Ghost - Bug 
+
+CoolTrainer M   Version: R  B  Y  
+	Exeggutor  
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+	Cloyster   
+		Water, Ghost -   Grass Rock 
+	Arcanine   
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+
+PokeManiac      Version: R  B  Y  
+	Charmeleon 
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Lapras     
+		Water, Rock -    Fighting Rock 
+		Water, Ghost -   Grass Rock 
+	Lickitung  
+		Water, Rock -    Fighting 
+	Moltres    
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ice 
+
+CoolTrainer F   Version: R  B  Y  
+	Parasect   
+		Flying, Ghost -  Ice Rock 
+	Dewgong    
+		Water, Rock -    Fighting Rock 
+		Water, Ghost -   Grass Rock 
+	Chansey    
+		Water, Rock -    Fighting 
+
+CoolTrainer M   Version: R  B  Y  
+	Kingler    
+		Water, Ghost -   Grass 
+	Tentacruel 
+		Water, Ghost -   Psychic 
+	Blastoise  
+		Water, Ghost -   Grass 
+
+CoolTrainer F   Version: R  B  Y  
+	Bellsprout 
+		Flying, Ghost -  Psychic Ice 
+	Weepinbell 
+		Flying, Ghost -  Psychic Ice 
+	Victreebel 
+		Flying, Ghost -  Psychic Ice 
+
+Lorelei         Version: R  B     
+	Dewgong    
+		Water, Rock -    Fighting Rock 
+		Water, Ghost -   Grass Rock 
+	Cloyster   
+		Water, Ghost -   Grass Rock 
+	Slowbro    
+		Water, Ghost -   Grass 
+	Jynx       
+		Water, Rock -    Rock 
+		Water, Ghost -   Rock 
+	Lapras     
+		Water, Ghost -   Grass Rock 
+
+Bruno           Version: R  B     
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+	Hitmonchan 
+		KOWTOW
+	Hitmonlee  
+		Psychic, Ghost - Flying 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Onix       
+		Ground, Rock -   Ground Ice Grass 
+	Machamp    
+		Flying, Ghost -  Psychic 
+
+Agatha          Version: R  B     
+	Gengar     
+		Psychic, Ghost - Bug 
+	Golbat     
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Haunter    
+		Psychic, Ghost - Bug 
+	Arbok      
+		Psychic, Ghost - Bug 
+		Ground, Rock -   Ground 
+		Flying, Ghost -  Psychic 
+		Water, Ghost -   Psychic 
+	Gengar     
+		Psychic, Ghost - Bug 
+
+Lance           Version: R  B     
+	Gyarados   
+		Water, Ghost -   Rock 
+	Dragonair  
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+	Dragonair  
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+	Aerodactyl 
+		Water, Rock -    Water Rock 
+		Psychic, Ghost - Electric 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+	Dragonite  
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice Rock 
+		Water, Ghost -   Rock 
+
+Rival           Version: R  B     
+	Pidgeot    
+		Water, Rock -    Rock 
+		Ground, Rock -   Ice 
+	Alakazam   
+		Psychic, Ghost - Bug 
+	Rhydon     
+		Water, Rock -    Fighting Water 
+		Ground, Rock -   Ground Ice Grass 
+		Flying, Ghost -  Ice 
+		Water, Ghost -   Grass 
+	Exeggutor  
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+	Gyarados   
+		Water, Ghost -   Rock 
+	Charizard  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ice 
+		Water, Ghost -   Rock 
+	Arcanine   
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Exeggutor  
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+	Blastoise  
+		Water, Ghost -   Grass 
+	Gyarados   
+		Water, Ghost -   Rock 
+	Arcanine   
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Venusaur   
+		Flying, Ghost -  Psychic Ice 
+
+Prof. Oak       Version: R  B  Y  
+	Tauros     
+		Water, Rock -    Fighting 
+	Exeggutor  
+		Psychic, Ghost - Flying Bug 
+		Ground, Rock -   Ice 
+		Flying, Ghost -  Ice 
+	Arcanine   
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ground 
+		Water, Ghost -   Rock 
+	Charizard  
+		Water, Rock -    Water Rock 
+		Ground, Rock -   Ice 
+		Water, Ghost -   Rock 
+	Blastoise  
+		Water, Ghost -   Grass 
+	Venusaur   
+		Flying, Ghost -  Psychic Ice 
+	Gyarados   
+		Water, Ghost -   Rock 
+ 
+['Water', 'Rock', 'Fighting', 'Water', 'Rock'] has the option to do 363, and can uniquely do 100
+['Psychic', 'Ghost', 'Flying', 'Bug', 'Electric'] has the option to do 484, and can uniquely do 86
+['Ground', 'Rock', 'Ground', 'Ice', 'Grass'] has the option to do 518, and can uniquely do 111
+['Flying', 'Ghost', 'Psychic', 'Ice', 'Rock'] has the option to do 518, and can uniquely do 90
+['Water', 'Ghost', 'Psychic', 'Grass', 'Rock'] has the option to do 608, and can uniquely do 103
+number we kowtow to: 2

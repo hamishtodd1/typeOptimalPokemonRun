@@ -1,0 +1,496 @@
+Charmander 
+
+		Water, Rock -    
+		Ground, Rock -   
+		Water, Ghost -   
+Squirtle   
+
+		Water, Ghost -   
+Bulbasaur  
+
+		Flying, Ghost -  
+Pidgey     
+
+		Water, Rock -    
+		Ground, Rock -   
+Nidoran F  
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Nidoran M  
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Weedle     
+
+		Water, Rock -    
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Caterpie   
+
+		Water, Rock -    
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Metapod    
+
+		Water, Rock -    
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Diglett    
+
+		Flying, Ghost -  
+Sandshrew  
+
+		Water, Rock -    
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Geodude    
+
+		Ground, Rock -   
+Onix       
+
+		Ground, Rock -   
+Rattata    
+
+		Water, Rock -    
+Ekans      
+
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Spearow    
+
+		Water, Rock -    
+		Ground, Rock -   
+Jigglypuff 
+
+		Water, Rock -    
+Clefairy   
+
+		Water, Rock -    
+Zubat      
+
+		Flying, Ghost -  
+Magnemite  
+
+		Ground, Rock -   
+Voltorb    
+
+		Ground, Rock -   
+Oddish     
+
+		Flying, Ghost -  
+Bellsprout 
+
+		Flying, Ghost -  
+Raticate   
+
+		Water, Rock -    
+Grimer     
+
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Koffing    
+
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Meowth     
+
+		Water, Rock -    
+Pidgeotto  
+
+		Water, Rock -    
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Eevee      
+
+		Water, Rock -    
+Mankey     
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Machop     
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Slowpoke   
+
+Drowzee    
+
+		Psychic, Ghost - 
+Horsea     
+
+		Water, Ghost -   
+Shellder   
+
+		Water, Ghost -   
+Goldeen    
+
+		Ground, Rock -   
+Staryu     
+
+		Water, Ghost -   
+Starmie    
+
+		Water, Ghost -   
+Weepinbell 
+
+		Flying, Ghost -  
+Pikachu    
+
+		Ground, Rock -   
+Cubone     
+
+		Flying, Ghost -  
+Butterfree 
+
+		Psychic, Ghost - 
+Poliwag    
+
+		Water, Ghost -   
+Nidorino   
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Growlithe  
+
+		Water, Rock -    
+		Ground, Rock -   
+		Water, Ghost -   
+Vulpix     
+
+		Water, Rock -    
+		Ground, Rock -   
+		Water, Ghost -   
+Magneton   
+
+		Ground, Rock -   
+Tentacool  
+
+		Water, Ghost -   
+Ponyta     
+
+		Water, Rock -    
+		Ground, Rock -   
+		Water, Ghost -   
+Kadabra    
+
+		Psychic, Ghost - 
+Charmeleon 
+
+		Water, Rock -    
+		Ground, Rock -   
+		Water, Ghost -   
+Wartortle  
+
+		Water, Ghost -   
+Ivysaur    
+
+		Flying, Ghost -  
+Raichu     
+
+		Ground, Rock -   
+Beedrill   
+
+		Water, Rock -    
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Venonat    
+
+		Psychic, Ghost - 
+Graveler   
+
+		Ground, Rock -   
+Muk        
+
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Nidorina   
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Poliwhirl  
+
+		Water, Ghost -   
+Arbok      
+
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Sandslash  
+
+		Water, Rock -    
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Rhyhorn    
+
+		Water, Rock -    
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Kangaskhan 
+
+		Water, Rock -    
+Persian    
+
+		Water, Rock -    
+Exeggcute  
+
+		Flying, Ghost -  
+Gloom      
+
+		Flying, Ghost -  
+Victreebel 
+
+		Flying, Ghost -  
+Tangela    
+
+		Flying, Ghost -  
+Vileplume  
+
+		Flying, Ghost -  
+Gyarados   
+
+		Water, Ghost -   
+Fearow     
+
+		Water, Rock -    
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Gastly     
+
+		Psychic, Ghost - 
+Haunter    
+
+		Psychic, Ghost - 
+Golbat     
+
+		Water, Rock -    
+		Ground, Rock -   
+Weezing    
+
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Snorlax    
+
+		Water, Rock -    
+Machoke    
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Primeape   
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Dodrio     
+
+		Water, Rock -    
+		Ground, Rock -   
+Electrode  
+
+		Ground, Rock -   
+Magikarp   
+
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Water, Ghost -   
+Doduo      
+
+		Water, Rock -    
+		Ground, Rock -   
+Farfetch'd 
+
+		Water, Rock -    
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Wigglytuff 
+
+		Water, Rock -    
+Hypno      
+
+		Psychic, Ghost - 
+Lickitung  
+
+		Water, Rock -    
+Zapdos     
+
+		Ground, Rock -   
+Hitmonlee  
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Hitmonchan 
+
+Mr. Mime   
+
+		Psychic, Ghost - 
+Pidgeot    
+
+		Water, Rock -    
+		Ground, Rock -   
+Alakazam   
+
+		Psychic, Ghost - 
+Charizard  
+
+		Water, Rock -    
+		Ground, Rock -   
+		Water, Ghost -   
+Blastoise  
+
+		Water, Ghost -   
+Venusaur   
+
+		Flying, Ghost -  
+Marowak    
+
+		Flying, Ghost -  
+Nidoqueen  
+
+		Psychic, Ghost - 
+		Flying, Ghost -  
+		Water, Ghost -   
+Slowbro    
+
+		Water, Ghost -   
+Venomoth   
+
+		KOWTOW
+
+Seaking    
+
+		Ground, Rock -   
+Tentacruel 
+
+		Water, Ghost -   
+Seadra     
+
+		Water, Ghost -   
+Cloyster   
+
+		Water, Ghost -   
+Articuno   
+
+		Water, Rock -    
+Seel       
+
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Water, Ghost -   
+Ninetales  
+
+		Water, Rock -    
+		Ground, Rock -   
+		Water, Ghost -   
+Rapidash   
+
+		Water, Rock -    
+		Ground, Rock -   
+		Water, Ghost -   
+Arcanine   
+
+		Water, Rock -    
+		Ground, Rock -   
+		Water, Ghost -   
+Tauros     
+
+		Water, Rock -    
+Nidoking   
+
+		Water, Rock -    
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Dugtrio    
+
+		Flying, Ghost -  
+Rhydon     
+
+		Flying, Ghost -  
+Golduck    
+
+		Psychic, Ghost - 
+Exeggutor  
+
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+Lapras     
+
+		Water, Ghost -   
+Moltres    
+
+		Water, Rock -    
+		Ground, Rock -   
+Parasect   
+
+		Flying, Ghost -  
+Dewgong    
+
+		Water, Rock -    
+		Water, Ghost -   
+Chansey    
+
+		Water, Rock -    
+Kingler    
+
+		Water, Ghost -   
+Jynx       
+
+		Water, Rock -    
+		Water, Ghost -   
+Machamp    
+
+		Flying, Ghost -  
+Gengar     
+
+		Psychic, Ghost - 
+Dragonair  
+
+		Ground, Rock -   
+		Flying, Ghost -  
+Aerodactyl 
+
+		Water, Rock -    
+		Psychic, Ghost - 
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   
+Dragonite  
+
+		Water, Rock -    
+		Ground, Rock -   
+		Flying, Ghost -  
+		Water, Ghost -   

@@ -1,0 +1,32 @@
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "pikasav.py", line 1109, in wmdel_pokeedit
+  File "pikasav.py", line 1059, in store_pokeedit
+  File "rbsav.pyc", line 478, in pkm_set
+  File "rbsav.pyc", line 140, in setbyte
+ValueError: chr() arg not in range(256)
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "pikasav.py", line 1109, in wmdel_pokeedit
+  File "pikasav.py", line 1059, in store_pokeedit
+  File "rbsav.pyc", line 478, in pkm_set
+  File "rbsav.pyc", line 140, in setbyte
+ValueError: chr() arg not in range(256)
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "pikasav.py", line 1109, in wmdel_pokeedit
+  File "pikasav.py", line 1059, in store_pokeedit
+  File "rbsav.pyc", line 478, in pkm_set
+  File "rbsav.pyc", line 140, in setbyte
+ValueError: chr() arg not in range(256)
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "pikasav.py", line 1109, in wmdel_pokeedit
+  File "pikasav.py", line 1059, in store_pokeedit
+  File "rbsav.pyc", line 478, in pkm_set
+  File "rbsav.pyc", line 140, in setbyte
+ValueError: chr() arg not in range(256)
