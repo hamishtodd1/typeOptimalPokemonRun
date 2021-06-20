@@ -452,12 +452,20 @@ def A_hypereffectiveagainst_B(
 		
 #------------------------------------------------------------------------------
 #main
-#One of the rocks, and psychic/ghost, NEEDS to have electric or grass for goldeen and golduck. Onix on a "water pokemon??"
-A1 = ["Water","Rock",		"Fighting","Water","Rock"]
-A2 = ["Psychic","Ghost",	"Flying","Bug","Electric"]
-A3 = ["Ground","Rock",		"Ground", "Ice","Grass"]
+#One of the rocks, and psychic/ghost, NEEDS to have electric or grass for goldeen and golduck. Onix on a "water pokemon??" Strange but true!
+# had this one in place, dunno why, see if it's worse
+A1 = ["Ground","Rock",		"Ice","Grass","Ground"]
+A2 = ["Water","Rock",		"Fighting","Water","Rock"]
+A3 = ["Water","Ghost",		"Psychic","Grass","Rock"]
 A4 = ["Flying","Ghost",		"Psychic","Ice","Rock"]
-A5 = ["Water","Ghost",		"Psychic","Grass","Rock"]
+A5 = ["Psychic","Ghost",	"Flying","Bug","Electric"]
+
+# this is what is set up, it's shit
+# A1 = ["Water","Rock",		"Fighting","Grass","Rock"]
+# A2 = ["Psychic","Ghost",	"Psychic","Ice","Rock"]
+# A3 = ["Ground","Rock",		"Ground", "Ice","Grass"]
+# A4 = ["Flying","Ghost",		"Psychic","Grass","Rock"]
+# A5 = ["Water","Ghost",		"Flying","Grass","Electric"]
 
 
 #go through every combination of 2 moves, all 225 of them

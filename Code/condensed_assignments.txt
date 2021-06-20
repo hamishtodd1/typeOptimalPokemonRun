@@ -1,7 +1,7 @@
 Charmander 
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 		Water, Ghost -   
 Squirtle   
 
@@ -11,45 +11,45 @@ Bulbasaur
 		Flying, Ghost -  
 Pidgey     
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 Nidoran F  
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Nidoran M  
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Weedle     
 
 		Water, Rock -    
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Caterpie   
 
 		Water, Rock -    
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Metapod    
 
 		Water, Rock -    
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Diglett    
 
 		Flying, Ghost -  
 Sandshrew  
 
-		Water, Rock -    
 		Ground, Rock -   
-		Flying, Ghost -  
+		Water, Rock -    
 		Water, Ghost -   
+		Flying, Ghost -  
 Geodude    
 
 		Ground, Rock -   
@@ -61,14 +61,14 @@ Rattata
 		Water, Rock -    
 Ekans      
 
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Spearow    
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 Jigglypuff 
 
 		Water, Rock -    
@@ -95,39 +95,39 @@ Raticate
 		Water, Rock -    
 Grimer     
 
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Koffing    
 
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Meowth     
 
 		Water, Rock -    
 Pidgeotto  
 
-		Water, Rock -    
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
+		Water, Rock -    
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Eevee      
 
 		Water, Rock -    
 Mankey     
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Machop     
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Slowpoke   
 
 Drowzee    
@@ -165,18 +165,18 @@ Poliwag
 		Water, Ghost -   
 Nidorino   
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Growlithe  
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 		Water, Ghost -   
 Vulpix     
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 		Water, Ghost -   
 Magneton   
 
@@ -186,16 +186,16 @@ Tentacool
 		Water, Ghost -   
 Ponyta     
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 		Water, Ghost -   
 Kadabra    
 
 		Psychic, Ghost - 
 Charmeleon 
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 		Water, Ghost -   
 Wartortle  
 
@@ -209,9 +209,9 @@ Raichu
 Beedrill   
 
 		Water, Rock -    
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Venonat    
 
 		Psychic, Ghost - 
@@ -220,36 +220,36 @@ Graveler
 		Ground, Rock -   
 Muk        
 
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Nidorina   
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Poliwhirl  
 
 		Water, Ghost -   
 Arbok      
 
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Sandslash  
 
-		Water, Rock -    
 		Ground, Rock -   
-		Flying, Ghost -  
+		Water, Rock -    
 		Water, Ghost -   
+		Flying, Ghost -  
 Rhyhorn    
 
-		Water, Rock -    
 		Ground, Rock -   
-		Flying, Ghost -  
+		Water, Rock -    
 		Water, Ghost -   
+		Flying, Ghost -  
 Kangaskhan 
 
 		Water, Rock -    
@@ -276,11 +276,11 @@ Gyarados
 		Water, Ghost -   
 Fearow     
 
-		Water, Rock -    
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
+		Water, Rock -    
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Gastly     
 
 		Psychic, Ghost - 
@@ -289,50 +289,50 @@ Haunter
 		Psychic, Ghost - 
 Golbat     
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 Weezing    
 
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Snorlax    
 
 		Water, Rock -    
 Machoke    
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Primeape   
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Dodrio     
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 Electrode  
 
 		Ground, Rock -   
 Magikarp   
 
-		Psychic, Ghost - 
 		Ground, Rock -   
 		Water, Ghost -   
+		Psychic, Ghost - 
 Doduo      
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 Farfetch'd 
 
-		Water, Rock -    
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
+		Water, Rock -    
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Wigglytuff 
 
 		Water, Rock -    
@@ -347,9 +347,9 @@ Zapdos
 		Ground, Rock -   
 Hitmonlee  
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Hitmonchan 
 
 Mr. Mime   
@@ -357,15 +357,15 @@ Mr. Mime
 		Psychic, Ghost - 
 Pidgeot    
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 Alakazam   
 
 		Psychic, Ghost - 
 Charizard  
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 		Water, Ghost -   
 Blastoise  
 
@@ -378,9 +378,9 @@ Marowak
 		Flying, Ghost -  
 Nidoqueen  
 
-		Psychic, Ghost - 
-		Flying, Ghost -  
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Slowbro    
 
 		Water, Ghost -   
@@ -405,34 +405,34 @@ Articuno
 		Water, Rock -    
 Seel       
 
-		Psychic, Ghost - 
 		Ground, Rock -   
 		Water, Ghost -   
+		Psychic, Ghost - 
 Ninetales  
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 		Water, Ghost -   
 Rapidash   
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 		Water, Ghost -   
 Arcanine   
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 		Water, Ghost -   
 Tauros     
 
 		Water, Rock -    
 Nidoking   
 
-		Water, Rock -    
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
+		Water, Rock -    
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Dugtrio    
 
 		Flying, Ghost -  
@@ -444,16 +444,16 @@ Golduck
 		Psychic, Ghost - 
 Exeggutor  
 
-		Psychic, Ghost - 
 		Ground, Rock -   
 		Flying, Ghost -  
+		Psychic, Ghost - 
 Lapras     
 
 		Water, Ghost -   
 Moltres    
 
-		Water, Rock -    
 		Ground, Rock -   
+		Water, Rock -    
 Parasect   
 
 		Flying, Ghost -  
@@ -483,14 +483,14 @@ Dragonair
 		Flying, Ghost -  
 Aerodactyl 
 
-		Water, Rock -    
-		Psychic, Ghost - 
 		Ground, Rock -   
-		Flying, Ghost -  
+		Water, Rock -    
 		Water, Ghost -   
+		Flying, Ghost -  
+		Psychic, Ghost - 
 Dragonite  
 
-		Water, Rock -    
 		Ground, Rock -   
-		Flying, Ghost -  
+		Water, Rock -    
 		Water, Ghost -   
+		Flying, Ghost -  

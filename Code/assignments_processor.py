@@ -44,6 +44,7 @@ with open("assignments.txt" ) as walkthru:
 				opponent_reading_into = names.index(opponent_name)
 
 for name in names:
-	print(name)
+	print(name[:(len(name)-1)])
 	for assignment in assignments[names.index(name)]:
 		print(assignment)
+	print("\n")
